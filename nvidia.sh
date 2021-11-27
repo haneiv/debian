@@ -1,0 +1,1 @@
+sudo apt install nvidia-driver xserver-xorg-video-nvidia
